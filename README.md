@@ -9,8 +9,7 @@ I am a **B.Tech student in Computer Science Engineering** specializing in **Clou
 🎓 **B.Tech in Computer Science Engineering (2022-Present) | UPES, Dehradun | CGPA: 6.51**  
 🏆 **AWS Academy Certified | Hands-on with AWS, Docker, and Cloud Security**  
 💻 **Tech Stack:** Java, HTML, CSS, AWS, MS Office  
-🌱 **Currently exploring:** CI/CD automation, Microservices, Cloud Security  
-🎯 **Seeking software engineering & cloud computing internships**  
+🌱 **Currently exploring:** CI/CD automation, Microservices, Cloud Security    
 🤝 **Active Contributor to Tech Communities**  
 
 ---
