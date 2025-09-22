@@ -7,7 +7,7 @@ I am presently enrolled in a Bachelor of Technology program in Computer Science 
 
 ## 🌟 About Me
 🎓 **B.Tech in Computer Science Engineering (Aug 2022 - May 2026) | UPES, Dehradun | CGPA: 6.75**  
-💡 **Generative AI Intern at Nasscom (via FutureSkills Prime)**  
+💡 **Generative AI Intern at Nasscom (via FutureSkills Prime) (June 2025 - July 2025)**  
 * Gained proficiency in Generative AI principles on Google Cloud Platform (GCP).
 * Developed practical skills in implementing Large Language Models (LLMs) and prompt engineering. 
 🌱 **Currently exploring:** Advanced CI/CD automation, Microservices, and Cloud-native solutions.
